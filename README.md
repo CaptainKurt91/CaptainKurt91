@@ -10,7 +10,7 @@
 
 - 🔭 I’m looking for a position as a Junior Full Stack Developer working with Rails, JavaScript, HTML and CSS
 
-- 🌱 I’m currently Working at <a href="www.yogaeasy.de" target="blank">YogaEasy</a> as an assitant developer
+- 🌱 I’m currently Working at <a href="https://www.yogaeasy.de" target="blank">YogaEasy</a> as an assitant developer
 
 - 🤝 I’m available for **freelancing**
 
