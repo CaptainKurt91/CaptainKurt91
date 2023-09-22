@@ -8,13 +8,13 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m looking for a position as a Junior Full Stack Developer working with Rails, JavaScript, HTML and CSS
+- 🔭 I’m looking for a position as a Junior Full Stack Developer working with Rails, JavaScript, HTML, and CSS
 
 - 🌱 I’m currently Working at <a href="https://www.yogaeasy.de" target="blank">YogaEasy</a> as an assitant developer
 
 - 🤝 I’m available for **freelancing**
 
-- 🌱 I’m alway improving **Ruby and Rails** skill set
+- 🌱 I’m always improving **Ruby and Rails** skill set
 
 - 💬 Ask me about **Le Wagon Bootcamp**
 
